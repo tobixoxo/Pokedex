@@ -1,0 +1,13 @@
+{
+    "id" : 1,
+    "name" : "pikachu",
+    "type1" : "electric",
+    "type2" : null,
+    "legendary" : false,
+    "attack" : 89,
+    "speed" : 95,
+    "defense" : 97,
+    "healthPoints" : 100,
+    "spattack" : 67,
+    "spdefense" : 56
+}
